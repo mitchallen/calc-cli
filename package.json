@@ -1,0 +1,15 @@
+{
+  "name": "@mitchallen/calc-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "calc-sum": "bin/sum.js",
+    "calc-avg": "bin/avg.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mitch Allen",
+  "license": "MIT"
+}
